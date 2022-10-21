@@ -1,0 +1,24 @@
+sum=5+8
+insuarance_rate=20
+months=12
+tax=5000
+salary=80000
+allowance=20000
+gross_pay=salary+allowance
+print(gross_pay)
+net_pay=gross_pay - tax
+print(net_pay)
+annual_pay=months*net_pay
+print(annual_pay)
+insuarance_fee=20/100*annual_pay
+print(insuarance_fee)
+sq=5**5
+print(sq)
+r=5%3
+print(r)
+d=5/3
+f=5//3
+print(d)
+print(f)
+a="5"+"3"
+print(a)
